@@ -10,3 +10,6 @@ The example architecture (see below) is designed for a lab to introduce a studen
 
   ![Reference Pattern](https://github.com/pbahrs/TFDemo/blob/master/imgs/labarch.png)
 
+  Follow [this](https://github.com/srikar-git/tf_cloudless_sleepy/blob/master/README.md)
+  
+
